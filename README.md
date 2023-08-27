@@ -75,6 +75,16 @@
 </details>
 
 
+
+<details>
+ <summary>🎵 <b>My Spotify Activity</b></summary>
+ <div align="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31s5ov65hcack3kzjoq2iw2emswq&unique={true|1|on|yes}&width=500&count=10">
+  </div>
+</details>
+
+
+
 <details>
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
