@@ -44,6 +44,9 @@
 <a href="https://codepen.io/BitH0xker/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" alt="pralinkhaira" />
 </a>
+<a href="https://www.hackerrank.com/pralin_khaira_11" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="pralin_khaira_11" />
+</a>
 <a href="https://github.com/pralinkhaira" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="pralinkhaira" />
 </a>
