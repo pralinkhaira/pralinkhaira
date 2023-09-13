@@ -71,7 +71,6 @@
  <summary>🏆 <b>Github Profile Trophy</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/pralinkhaira/">
    <img src="https://github-profile-trophy.vercel.app/?username=pralinkhaira&column=8&theme=darkhub"/>
   </a>
  </p>
