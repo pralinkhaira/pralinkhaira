@@ -9,13 +9,13 @@
 - 🔭 I’m currently working on **Hacking Skills.**
 - 🌱 I’m currently learning **Competitive programming and DSA.**
 - 👯 I’m looking to collaborate on **Web Development Projects.**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/pralinkhaira?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pralinkhaira" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/pralinkhaira?tab=repositories" target="blank">Github.com</a>
 - 💬 Ask me about **Hacking, Java, HTML and CSS.**
-- 📃 My resume - [View!](https://bit.ly/44xOHnl)
+- 📃 My resume - [View!](https://drive.google.com/file/d/1dTb9rDG3XNxOxH1Yf-9UH8uQq666Y-yT/view?usp=sharing)
 
   ## <img src="https://media.giphy.com/media/WiIuC6fAOoXD2/giphy.gif" width="40"> **Streak Info**:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pralinkhaira&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=pralinkhaira&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
 
 
@@ -130,10 +130,13 @@
  <br />
  <p align="center">
   <a href="https://github.com/pralinkhaira">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=pralinkhaira&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=pralinkhaira&theme=gotham&hide_border=true&include_all_commits=false&count_private=false">
   </a>
   <a href="https://github.com/abhinandanraj/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pralinkhaira&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pralinkhaira&theme=gotham&hide_border=true">
+  </a>
+  <a href="https://github.com/abhinandanraj/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pralinkhaira&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
   </a>
  </p>
 </details>
