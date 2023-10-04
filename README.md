@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Pralin Khaira 🎯️🚀️</h1>
-<h3 align="center">Hey it's me Pralin Khaira, an Ethical Hacker who is passionate about technology. I strive to learn and understand by exploring, experimenting with domains cybersecurity, web development, and open-source software.</h3>
+<h3 align="center">Hey it's me Pralin Khaira, Student Ambassador @LetsUpgrade.in (GCET Jammu) | Campus 1st Ranker ~ Geeks For Geeks | Ethical Hacker | Android Dev | Cybersecurity | Web Development | Open-Source | Pen Tester.</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
