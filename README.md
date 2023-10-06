@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello 👋, I'm Pralin Khaira 🎯️🚀️</h1>
 <h3 align="center">Hey it's me Pralin Khaira, Student Ambassador @LetsUpgrade.in (GCET Jammu) | Campus 1st Ranker ~ Geeks For Geeks | Ethical Hacker | Android Dev | Cybersecurity | Web Development | Open-Source | Pen Tester.</h3>
 
