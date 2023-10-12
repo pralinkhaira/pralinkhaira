@@ -17,6 +17,8 @@
   <img src="https://streak-stats.demolab.com?user=pralinkhaira&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
 
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Badges:**
+[![An image of @pralinkhaira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pralinkhaira1903)](https://holopin.io/@pralinkhaira1903)
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
