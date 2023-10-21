@@ -122,7 +122,8 @@
 <a href="https://github.com/pralinkhaira" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="pralinkhaira" />
 </a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pralinkhaira&label=Profile Visitors&color=0088cc&style=flat-square" alt="pralinkhaira" /> </p>
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=pralinkhaira&icon=2&color=0" alt="pralinkhaira" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=pralinkhaira&label=Profile Visitors&color=0088cc&style=flat-square" alt="pralinkhaira" /> </p> -->
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
