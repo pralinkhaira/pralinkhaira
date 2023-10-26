@@ -127,7 +127,7 @@
 <!-- <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/ishitaraina1807/count.svg" alt="visitor badge"/></p> -->
 
-<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><b>Profile Visitors</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/pralinkhaira/count.svg" alt="visitor badge"/></p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
