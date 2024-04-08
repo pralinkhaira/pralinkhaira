@@ -5,7 +5,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **Hacking Skills.**
+- 🔭 I’m currently working on **Hacking Skills**
 - 🌱 I’m currently learning **Competitive programming and DSA.**
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/pralinkhaira?tab=repositories" target="blank">Github.com</a>
