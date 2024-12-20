@@ -33,6 +33,13 @@ and here](https://drive.google.com/file/d/1dTb9rDG3XNxOxH1Yf-9UH8uQq666Y-yT/view
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/pralin1903?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
+<h2 align="center">GeeksForGeeks Info<h2>  
+
+<p align="center">
+  
+  <img src="https://gfgstatscard.vercel.app/xenomorphing" alt="GFG stats" />  
+</p>
+
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Badges:**
 [![An image of @pralinkhaira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pralinkhaira1903)](https://holopin.io/@pralinkhaira1903)
 
