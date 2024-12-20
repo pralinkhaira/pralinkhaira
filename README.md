@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/pralinkhaira?tab=repositories" target="blank">Github.com</a>
 - 💬 Ask me about **Hacking, Java, HTML and CSS.**
-- 📃 My resume - [View!](https://drive.google.com/file/d/1wh5Y583GlmCHQkVOEeLB1TPiktmPHsUK/view?usp=drive_link)
+- 📃 My resume - [View!](https://bit.ly/49KfPDB)
 <!---
 [your comment goes here
 and here](https://drive.google.com/file/d/1dTb9rDG3XNxOxH1Yf-9UH8uQq666Y-yT/view?usp=sharing))
