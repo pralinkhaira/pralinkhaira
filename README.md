@@ -23,7 +23,7 @@ and here](https://drive.google.com/file/d/1dTb9rDG3XNxOxH1Yf-9UH8uQq666Y-yT/view
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-	<a href="https://leetcode.com/pralinkhaira/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="2024" height="200" width="200" /></a>
+	<a href="https://leetcode.com/u/pralinkhaira/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="2024" height="200" width="200" /></a>
   <a href="https://leetcode.com/pralin1903/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/500.gif" alt="500" height="200" width="200" /></a>
   <a href="https://leetcode.com/pralin1903/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365.gif" alt="365" height="200" width="200" /></a>
   <a href="https://leetcode.com/pralin1903/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
