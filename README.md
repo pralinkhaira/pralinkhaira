@@ -198,6 +198,7 @@ and here](https://drive.google.com/file/d/1dTb9rDG3XNxOxH1Yf-9UH8uQq666Y-yT/view
  </p>
 </details>
 
+<!---
 
 <details>
  <summary>🎵 <b>My Spotify Activity</b></summary>
@@ -206,7 +207,7 @@ and here](https://drive.google.com/file/d/1dTb9rDG3XNxOxH1Yf-9UH8uQq666Y-yT/view
   </div>
 </details>
 
-
+-->
 
 <details>
   <br />
@@ -215,14 +216,14 @@ and here](https://drive.google.com/file/d/1dTb9rDG3XNxOxH1Yf-9UH8uQq666Y-yT/view
   	   <li><b>OS:</b> Windows 11 </li>
 	     <li><b>Laptop: </b> Lenovo Legion 5 Intel Core i7 11th Gen</li>
   	   <li><b>Browser: </b> Chrome Web Browser</li>
-	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	     <li><b>Code Editor:</b> VSCode - Cursor AI (Sometimes).</li>
 	     <li><b>To Stay Updated:</b> Linkedin </li>
 	     <li><b>Chit-Chat:</b> Instagram </li>
 	    <br />
 	</ul>
 </details>
 
----
+<!---
 
 ### Dev Meme Of The Day!
 <div align="center">
@@ -234,3 +235,4 @@ and here](https://drive.google.com/file/d/1dTb9rDG3XNxOxH1Yf-9UH8uQq666Y-yT/view
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
+-->
