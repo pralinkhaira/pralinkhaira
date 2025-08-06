@@ -1,5 +1,12 @@
-<h1 align="center">Hello 👋, I'm Pralin Khaira 🎯️🚀️</h1>
-<h3 align="center">Hey it's me Pralin Khaira, Campus 1st Ranker ~ Geeks For Geeks | Ethical Hacker | Android Dev | Cybersecurity | Web Development | Open-Source | Ex -Student Ambassador @LetsUpgrade.in @Internshala (GCET Jammu) | Pen Tester</h3>
+<h1 align="center">Hello, I'm Pralin Khaira</h1>
+
+<h2 align="center">
+  Hey it's me Pralin Khaira, Campus 1st Ranker ~ Geeks For Geeks | Ethical Hacker | 750+ Problems Solved on GFG & LeetCode | Technology Enthusiast | Cybersecurity | Web Development | PenTester | @ BSides Jammu | <a href="https://bit.ly/49KfPDB" target="_blank">Resume</a> |
+</h2>
+
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fpralinkhairac3baf.png?alt=media)
+
+<!---
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
@@ -11,16 +18,16 @@
 - 👨‍💻 All of my projects are available at <a href="https://github.com/pralinkhaira?tab=repositories" target="blank">Github.com</a>
 - 💬 Ask me about **Hacking, Java, HTML and CSS.**
 - 📃 My resume - [View!](https://bit.ly/49KfPDB)
-<!---
+
 [your comment goes here
 and here](https://drive.google.com/file/d/1dTb9rDG3XNxOxH1Yf-9UH8uQq666Y-yT/view?usp=sharing))
--->
+
 
   ## <img src="https://media.giphy.com/media/WiIuC6fAOoXD2/giphy.gif" width="40"> **Streak Info**:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pralinkhaira&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
-
+-->
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
 	<a href="https://leetcode.com/u/pralinkhaira/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="2024" height="200" width="200" /></a>
@@ -30,7 +37,7 @@ and here](https://drive.google.com/file/d/1dTb9rDG3XNxOxH1Yf-9UH8uQq666Y-yT/view
 </p>
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/pralin1903?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/pralinkhaira?theme=dark&font=Bellota%20Text&ext=heatmap" />  
 </p>
 
 <h2 align="center">GeeksForGeeks Info<h2>  
