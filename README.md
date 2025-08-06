@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Pralin Khaira</h1>
 
 <h2 align="center">
-  Hey it's me Pralin Khaira, Campus 1st Ranker ~ Geeks For Geeks | Ethical Hacker | 750+ Problems Solved on GFG & LeetCode | Technology Enthusiast | Cybersecurity | Web Development | PenTester | @ BSides Jammu | <a href="https://bit.ly/49KfPDB" target="_blank">Resume</a> |
+  Hey it's me Pralin Khaira, Campus 1st Ranker ~ Geeks For Geeks | Ethical Hacker | 750+ Problems Solved on GFG & LeetCode | Technology Enthusiast | Cybersecurity | Web Development | PenTester | @ BSides Jammu | <a href="https://drive.google.com/file/d/14JcEkdm40r_fEIkkBBFLdKOz7PTXOlm_/view?usp=sharing" target="_blank">Resume</a> |
 </h2>
 
 ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fpralinkhairac3baf.png?alt=media)
